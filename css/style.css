@@ -138,7 +138,7 @@ a:focus {
 }
 
 .custom_nav-container .navbar-nav .nav-item .nav-link {
-  padding: 3px 15px;
+  padding: px 15px;
   margin: 10px 15px;
   color: #ffffff;
   text-align: center;
@@ -160,7 +160,7 @@ a:focus {
 
 .custom_nav-container .navbar-toggler {
   padding: 0;
-  width: 37px;
+  width: px;
   height: 42px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -501,6 +501,7 @@ a:focus {
 
 .server_section .img-box {
   position: relative;
+  right: 30%;
 }
 
 .server_section .img-box img {
